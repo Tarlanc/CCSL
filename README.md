@@ -6,11 +6,12 @@ Dieses Repository enthält die Ergebnisse der Arbeitsgruppe "Computational Commu
 Das Repository enthält eine Wiki, in welcher die Inhalte organisiert sind, sowie Folien und Curricula bereits durchgeführter Kurse.
 
 ## Mitglieder
+### Leitung AG
 * Julia Niemann-Lenz, HMTM Hannover
 * Jule Scheper, HMTM Hannover
 * Emese Domahidi, TU Ilmenau
 
-
+### Mitglieder in alphabetischer Reihenfolge
 * Marko Bachl, Universität Hohenheim
 * Mario Haim, Universität Leipzig
 * Julian Hohner, LMU München
@@ -21,4 +22,5 @@ Das Repository enthält eine Wiki, in welcher die Inhalte organisiert sind, sowi
 * Julian Unkel, LMU München
 * Jens Vogelgesang, Universität Hohenheim
 * Gerret von Nordheim, Universität Hamburg
+* Annie Waldherr, Universität Wien
 * Martin Wettstein, Universität Zürich
