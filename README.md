@@ -25,6 +25,7 @@ Das Repository enthält eine Wiki, in welcher die Inhalte organisiert sind, sowi
 * Daniel Possler, HMTM Hannover
 * Elizabeth Prommer, Universität Rostock
 * Swaran Sandhu, HdM Stuttgart
+* Johanna Schäwel, Universität Hohenheim
 * Max Schindler, TU Illmenau
 * Hannah Schmid-Petri, Universität Passau
 * Heidi Schulze, LMU München
