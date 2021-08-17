@@ -3,7 +3,7 @@
 Dieses Repository enthält die Ergebnisse der Arbeitsgruppe "Computational Communication Science in der Lehre" der DGPuK. Die Arbeitsgruppe wurde an der Jahrestagung 2020 in München initiiert und verfolgt seither das Ziel, Inhalte, Ideen und Personen zu sammeln, die bei der Organisation qualitativ hochwertiger Lehre der CCS helfen.
 
 ## Inhalte
-Das Repository enthält eine Wiki, in welcher die Inhalte organisiert sind, sowie Folien und Curricula bereits durchgeführter Kurse.
+Das Repository enthält eine [Wiki](https://github.com/Tarlanc/CCSL/wiki), in welcher die Inhalte organisiert sind, sowie Folien und Curricula bereits durchgeführter Kurse.
 
 ## Mitglieder
 ### Leitung AG
