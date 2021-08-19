@@ -8,7 +8,7 @@ Das Repository enthält eine [Wiki](https://github.com/Tarlanc/CCSL/wiki), in we
 ## Mitglieder
 ### Leitung AG
 * [Julia Niemann-Lenz](https://github.com/xvariable), HMTM Hannover
-* Jule Scheper, HMTM Hannover
+* [Jule Scheper](https://github.com/JuleScheper), HMTM Hannover
 * Emese Domahidi, TU Illmenau
 
 ### Mitglieder in alphabetischer Reihenfolge
