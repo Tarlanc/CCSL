@@ -17,7 +17,7 @@ Das Repository enthält eine [Wiki](https://github.com/Tarlanc/CCSL/wiki), in we
 * [Mario Haim](https://github.com/MarHai), Universität Leipzig
 * [Valerie Hase](https://github.com/valeriehase), Universität Zürich
 * Julian Hohner, LMU München
-* Marc Jungblut, LMU München
+* [Marc Jungblut](https://github.com/MarcJungblut), LMU München
 * [Jakob Jünger](https://github.com/strohne), Universität Greifswald
 * Jessica Kunert, Universität Hamburg
 * [Philipp Müller](https://github.com/kommueller), Universität Mannheim
